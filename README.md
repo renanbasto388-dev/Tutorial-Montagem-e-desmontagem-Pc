@@ -45,7 +45,7 @@ Retire os parafusos da tampa lateral e deslize a tampa para fora. Guarde os para
 
 
 
-![Gabinete aberto](imagens/Gabineteaberto.jpeg)
+![Gabinete aberto](./imagens/Gabinete%20aberto.jpeg)
 
 
 
@@ -54,7 +54,7 @@ Antes de remover qualquer peça, desconecte os cabos de energia e de dados. Puxe
 
 
 
-![Cabos desconectados](imagens/foto03.jpg)
+![Cabos desconectados](./imagens/cabos%20de%20alimentaçao.jpg)
 
 
 
@@ -63,7 +63,7 @@ Retire os parafusos ou o suporte que prende o disco e puxe-o com cuidado.
 
 
 
-![Armazenamento removido](imagens/foto04.jpg)
+![Armazenamento removido](./imagens/foto04.jpg)
 
 
 
