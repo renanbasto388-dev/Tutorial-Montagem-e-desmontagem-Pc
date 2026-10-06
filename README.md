@@ -34,7 +34,7 @@ Por segurança e privacidade, as fotos mostram apenas componentes, ferramentas e
 
 
 
-![Ferramentas e bancada de trabalho](imagens/foto01.jpg)
+![Ferramentas e bancada de trabalho](imagens/chave de fenda.jpeg)
 
 
 
