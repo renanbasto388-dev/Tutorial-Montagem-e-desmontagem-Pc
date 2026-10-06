@@ -54,7 +54,7 @@ Antes de remover qualquer peça, desconecte os cabos de energia e de dados. Puxe
 
 
 
-![Cabos desconectados](./imagens/cabos%20de%20alimentaçao.jpg)
+![Cabos desconectados](./imagens/cabos%20de%20alimentaçao.jpeg)
 
 
 
