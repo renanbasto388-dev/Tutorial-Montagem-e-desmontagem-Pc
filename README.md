@@ -45,7 +45,7 @@ Retire os parafusos da tampa lateral e deslize a tampa para fora. Guarde os para
 
 
 
-![Gabinete aberto](imagens/foto02.jpg)
+![Gabinete aberto](imagens/Gabineteaberto.jpeg)
 
 
 
