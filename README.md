@@ -130,7 +130,7 @@ Posicione a placa-mãe sobre os espaçadores e fixe com os parafusos.
 
 
 
-![Placa-mãe fixada](imagens/foto11.jpg)
+![Placa-mãe fixada](./imagens/.jpeg)
 
 
 
