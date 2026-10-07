@@ -99,7 +99,7 @@ Retire os parafusos da parte traseira do gabinete e retire a fonte.
 
 
 
-![Fonte removida](imagens/foto08.jpg)
+![Fonte removida](imagens/fonte%20de%20alimentaçao.jpeg)
 
 
 
