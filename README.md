@@ -63,7 +63,7 @@ Retire os parafusos ou o suporte que prende o disco e puxe-o com cuidado.
 
 
 
-![Armazenamento removido](./imagens/foto04.jpg)
+![Armazenamento removido](./imagens/armazenaento.jpeg)
 
 
 
@@ -72,7 +72,7 @@ Abra as travas laterais do slot e puxe o pente de memória para cima, segurando 
 
 
 
-![Memória RAM removida](imagens/foto05.jpg)
+![Memória RAM removida](./imagens/memorias%20ram.jpeg)
 
 
 
@@ -81,7 +81,7 @@ Desencaixe o cooler e retire-o. Depois levante a trava do soquete e remova o pro
 
 
 
-![Cooler e processador removidos](imagens/foto06.jpg)
+![Cooler e processador removidos](./imagens/instalaçao%20air%20cooler.jpeg)
 
 
 
@@ -90,7 +90,7 @@ Retire os parafusos que fixam a placa-mãe ao gabinete e levante-a com cuidado.
 
 
 
-![Placa-mãe removida](imagens/foto07.jpg)
+![Placa-mãe removida](./imagens/placa%20mae.jpeg)
 
 
 
@@ -112,7 +112,7 @@ Encaixe a fonte no gabinete e fixe com os parafusos.
 
 
 
-![Fonte instalada](imagens/foto09.jpg)
+![Fonte instalada](imagens/fonte%20de%20alimentaçao.jpeg)
 
 
 
