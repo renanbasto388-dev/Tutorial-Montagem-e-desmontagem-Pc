@@ -121,7 +121,7 @@ Com a placa-mãe fora do gabinete, encaixe o processador no soquete (alinhando a
 
 
 
-![Processador, cooler e RAM instalados](imagens/foto10.jpg)
+![Processador, cooler e RAM instalados](./imagens/processador%20na%20pasta%20termica.jpeg)
 
 
 
@@ -139,7 +139,7 @@ Encaixe o HD ou SSD no suporte e fixe com os parafusos.
 
 
 
-![Armazenamento instalado](imagens/foto12.jpg)
+![Armazenamento instalado](./imagens/unidades%20de%20armazenamento1.jpeg)
 
 
 
@@ -148,7 +148,7 @@ Conecte os cabos de energia da fonte e os cabos de dados, além dos cabos do pai
 
 
 
-![Cabos conectados](./imagens/cabos%20de%20alimentaçao.jpg)
+![Cabos conectados](./imagens/cabos%20de%20alimentaçao.jpeg)
 
 
 
