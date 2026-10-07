@@ -130,7 +130,7 @@ Posicione a placa-mãe sobre os espaçadores e fixe com os parafusos.
 
 
 
-![Placa-mãe fixada](./imagens/.jpeg)
+![Placa-mãe fixada](./imagens/placamaeinstalaçao.jpeg)
 
 
 
@@ -148,7 +148,7 @@ Conecte os cabos de energia da fonte e os cabos de dados, além dos cabos do pai
 
 
 
-![Cabos conectados](imagens/foto13.jpg)
+![Cabos conectados](./imagens/cabos%20de%20alimentaçao.jpg)
 
 
 
