@@ -157,7 +157,7 @@ Recoloque a tampa lateral, ligue o cabo de energia e teste se o computador liga 
 
 
 
-![Computador montado](imagens/foto13.jpg)
+![Computador montado](./imagens/agradecimento.jpeg)
 
 
 
